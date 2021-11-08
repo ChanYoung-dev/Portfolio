@@ -1,11 +1,11 @@
 # Intro
 
-오픈소스[Magicmirror↗️](https://magicmirror.builders/)를 활용한 스마트미러이다.
+- 오픈소스[Magicmirror↗️](https://magicmirror.builders/)를 활용한 스마트미러이다.
 
-제작한 스마트미러는 총 2가지 종류이다.
-
-미용실용 스마트미러: [BeautyMirror↗️](https://github.com/ENTITYSmartMirror/BeautyMirror)  
-공항용 스마트미러: [AirportMirror↗️](https://github.com/ENTITYSmartMirror/AirportMirror) 
+- 제작한 스마트미러는 총 2가지 종류이다.
+	
+	- 미용실용 스마트미러: [BeautyMirror↗️](https://github.com/ENTITYSmartMirror/BeautyMirror)  
+	- 공항용 스마트미러: [AirportMirror↗️](https://github.com/ENTITYSmartMirror/AirportMirror) 
 
 ## 실행 유튜브 영상
 - 하단 이미지 클릭시 재생   
@@ -15,17 +15,17 @@
 
 ## 도움되는 사이트
 
-[CSS↗️](https://forum.magicmirror.builders/category/8/custom-css): 매직미러의 CSS관련 질문 및 개발  
-[Forum↗️](https://forum.magicmirror.builders/category/6/development) : 개발 관련 질문 포럼  
-[ModuleForBeginner↗️](https://forum.magicmirror.builders/topic/8534/head-first-developing-mm-module-for-extreme-beginners) : Module을 만드는 방법  
-[docs.magicmirror↗️](https://docs.magicmirror.builders/) : 전체적인 개발 관련 문서   
+- [CSS↗️](https://forum.magicmirror.builders/category/8/custom-css): 매직미러의 CSS관련 질문 및 개발  
+- [Forum↗️](https://forum.magicmirror.builders/category/6/development) : 개발 관련 질문 포럼  
+- [ModuleForBeginner↗️](https://forum.magicmirror.builders/topic/8534/head-first-developing-mm-module-for-extreme-beginners) : Module을 만드는 방법  
+- [docs.magicmirror↗️](https://docs.magicmirror.builders/) : 전체적인 개발 관련 문서   
 
 
 
 ## 개발 관련 기록
 
-[개발을위한문법정리(기초)](https://github.com/ChanYoung-dev/mirrorPlan): nodeJS, mysql, AJAX, Dom 등등 기초 공부
-[종합보고서](https://github.com/ENTITYSmartMirror/BeautyMirror/blob/master/%ED%95%9C%EC%9D%B4%EC%9D%8C:%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84%20%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.hwp):
+- [개발을위한문법정리(기초)](https://github.com/ChanYoung-dev/mirrorPlan): nodeJS, mysql, AJAX, Dom 등등 기초 공부  
+- [종합보고서](https://github.com/ENTITYSmartMirror/BeautyMirror/blob/master/%ED%95%9C%EC%9D%B4%EC%9D%8C:%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84%20%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.hwp):
 
 ```
 I. 프로젝트 수행계획
@@ -61,5 +61,5 @@ IV. 평가
 2. 회의록
 ```
 
-[스마트미러 논문↗️](https://github.com/ENTITYSmartMirror/BeautyMirror/blob/master/%EB%B2%94%EC%9A%A9%EC%84%B1%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AF%B8%EB%9F%AC%20%EB%85%BC%EB%AC%B8.hwp)
+- [스마트미러 논문↗️](https://github.com/ENTITYSmartMirror/BeautyMirror/blob/master/%EB%B2%94%EC%9A%A9%EC%84%B1%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AF%B8%EB%9F%AC%20%EB%85%BC%EB%AC%B8.hwp)
 
