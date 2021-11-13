@@ -1,10 +1,12 @@
+## 포트폴리오
+- ##### html/javascript/css를 이용하여 만든 포트폴리오 사이트 - https://chanyoung-dev.github.io/Profile/
+
 ## 이력서
 - 이력서.pdf 참고
+
 ## 공모전
 - ##### 한이음 공모전 - https://github.com/ENTITYSmartMirror/BeautyMirror
 
-## 포트폴리오 사이트
-- ##### html/javascript/css를 이용하여 만든 포트폴리오 사이트 - https://chanyoung-dev.github.io/Profile/
 
 ## 개발 블로그
 - ##### GitHub page + Jekyll로 만든 기술 블로그 - https://chanyoung-dev.github.io/
