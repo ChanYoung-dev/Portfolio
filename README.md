@@ -12,7 +12,7 @@
 - ##### GitHub page + Jekyll로 만든 기술 블로그 - https://chanyoung-dev.github.io/
 
 ## 심플 장고 프로젝트
-Django로 MVC패턴과 Form을 통해 간단한 CRUD 웹앱을 구현 - http://djangopractice.world/third/list/
+- Django로 MVC패턴과 Form을 통해 간단한 CRUD 웹앱을 구현 - http://djangopractice.world/third/list/
 
 ## 학교 프로젝트
 - ##### 영상처리 - https://github.com/ChanYoung-dev/imageProcessing
